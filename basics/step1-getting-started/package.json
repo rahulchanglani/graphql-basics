@@ -1,0 +1,14 @@
+{
+  "name": "step1-getting-started",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^0.13.2"
+  }
+}
